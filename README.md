@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Logging In
+
+To log in, a test user has been created:
+
+- **Login**: `test-bit-by-bit@gmail.com`
+- **Password**: `testBit-byBbit1@`
+
 ## Available Scripts
 
 In the project directory, you can run:
