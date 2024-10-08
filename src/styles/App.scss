@@ -1,0 +1,11 @@
+@import "./variavles.scss";
+@import "./components//Nav.scss";
+@import "./components//Login.scss";
+body {
+  background-color: $primary-color;
+  font-family: Arial, sans-serif;
+  color: $font-color;
+  h1 {
+    color: $font-color;
+  }
+}
